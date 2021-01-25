@@ -10,10 +10,6 @@
     color: var(--primaryHeader);
 }
 
-.UIPortion .LogoContainer {
-    padding: 2rem;
-}
-
 .UIPortion .LogoContainer img {
     border-radius: 50%;
 }

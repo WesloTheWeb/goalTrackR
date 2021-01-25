@@ -1,0 +1,4 @@
+.terminalContainer {
+    border: 2px solid var(--terminalBorder);
+    padding: 2rem;
+}

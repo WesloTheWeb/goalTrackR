@@ -1,0 +1,9 @@
+.controlContainer {
+    border: 2px solid #000;
+    padding: 2rem;
+}
+
+.controlPad {
+    position: fixed;
+    width: 25%;
+}

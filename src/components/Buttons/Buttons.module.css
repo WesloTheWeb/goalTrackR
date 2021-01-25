@@ -4,6 +4,11 @@
     background-color: #5AABF5;
 }
 
-.login {
+.login, .create {
     background-color: #39A825;
+}
+
+
+.logout {
+    background-color: red;
 }

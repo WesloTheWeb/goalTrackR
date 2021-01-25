@@ -2,5 +2,10 @@
 :root {
     --primaryHeader: #000;
     --decorativeSize: 3rem;
+    --terminalBorder: #23A883;
 }
 
+.two-select {
+    display: flex;
+    justify-content: space-evenly;
+}
