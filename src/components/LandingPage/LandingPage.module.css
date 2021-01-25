@@ -1,0 +1,29 @@
+.UIPortion {
+    border: 5px solid #23A883;
+    border-radius: 15px;
+    padding: 2rem;
+    height: 100%;
+    width: 20%;
+}
+
+.UIPortion h1 {
+    color: var(--primaryHeader);
+}
+
+.UIPortion .LogoContainer {
+    padding: 2rem;
+}
+
+.UIPortion .LogoContainer img {
+    border-radius: 50%;
+}
+
+.UIPortion h1 {
+    text-align: center;
+}
+
+.divider {
+    display: flex;
+    justify-content: space-between;
+    min-height: 100%;
+}
